@@ -3,7 +3,7 @@ _V 1.0_
 
 
 
-It is built on someline-starter:https://github.com/someline/someline-starter.
+It is built on someline-starter:https://github.com/ycp19940225/someline-blog.
 
 
 It is built with top of popular `Laravel 5.3 framework`, `Vue.js 2.0`, `Restful API`, `Repository Design`, `OAuth2`, `JWT`, `Unit Tests`.
